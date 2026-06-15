@@ -6,6 +6,6 @@
 TowerDisplayScaler
 </h1>
 
-All towers now have buttons to change their size
+All towers now have buttons to change their display scale
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
